@@ -1,6 +1,8 @@
 {
     "name": "realdigi/divi",
-    "description": "divi theme for composer wordress install",
-    "minimum-stability": "dev",
-    "require": {}
+    "type": "wordpress-theme",
+    "require": {
+        "composer/installers": "~1.0"
+    }
 }
+
